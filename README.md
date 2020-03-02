@@ -21,7 +21,7 @@ Example:
 
 ### Note:
 
-The C and C++ are two slightly different examples.  Both work with Python2.
+The C and C++ files are two slightly different examples.  Both work with Python2.
 
 ### Github
 
